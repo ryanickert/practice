@@ -1,0 +1,8 @@
+Peak1:
+Distance: 300
+Score: 430
+Gene: BMP7
+Peak2:
+Distance: 400
+Score: 20
+Gene: TCF
