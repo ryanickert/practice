@@ -4,5 +4,7 @@ Score: 430
 Gene: BMP7
 Peak2:
 Distance: 400
-Score: 20
+Score: 230
 Gene: TCF
+Peak3: 4
+Distance: new
